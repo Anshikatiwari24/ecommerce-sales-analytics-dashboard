@@ -15,18 +15,16 @@ Understand customer payment preferences.
 Track monthly profitability trends.
 Provide actionable insights for business growth and profitability.
 **📂 Dataset Information**
-
 The project uses transactional e-commerce sales data containing:
-
-Order Details
-Customer Information
-Product Categories
-Sub-Categories
-State Information
-Payment Modes
-Sales Amount
-Quantity Sold
-Profit Metrics
+1.Order Details
+2.Customer Information
+3.Product Categories
+4.Sub-Categories
+5.State Information
+6.Payment Modes
+7.Sales Amount
+8.Quantity Sold
+9.Profit Metrics
 **🛠 Tools & Technologies**
 | Tool               | Purpose                        |
 | ------------------ | ------------------------------ |
@@ -51,43 +49,55 @@ Total Sales
 Total Profit
 Total Quantity Sold
 Average Order Value
+
 **Sales Analysis**
 State-wise Sales Distribution
 Customer-wise Revenue Analysis
 Quarterly Performance Tracking
+
 **Profit Analysis**
 Monthly Profit Trends
 Sub-Category Profitability Analysis
+
 **Product Analysis**
 Category-wise Quantity Distribution
 Best Performing Product Categories
+
 **Customer Analysis**
 Top Revenue Generating Customers
 Purchase Behavior Insights
+
 **Payment Mode Analysis**
 COD Usage
 UPI Transactions
 Debit Card Transactions
 Credit Card Transactions
 EMI Transactions
+
 **Interactive Filters**
 Quarter Selection
 State Selection
+
 **🔍 Key Business Insights**
 **Sales Performance**
 Maharashtra generated the highest sales revenue among all states.
 Madhya Pradesh and Uttar Pradesh contributed significantly to overall sales.
+
 **Product Performance**
 Clothing category accounted for approximately 63% of total quantity sold.
 Electronics and Furniture followed as secondary contributors.
+
 **Customer Analysis**
 A small group of customers contributed a significant share of revenue, highlighting opportunities for customer retention programs.
+
 **Payment Behavior**
 Cash on Delivery (COD) was the most preferred payment method, accounting for 44% of transactions.
 UPI emerged as the second most utilized payment mode.
+
 **Profitability Analysis**
 Printers generated the highest profit among all sub-categories.
 Monthly profits showed noticeable fluctuations, indicating potential seasonality effects.
+
 **💡 Business Recommendations**
 **Improve Customer Retention**
 Develop loyalty and reward programs targeting high-value customers.
@@ -109,8 +119,7 @@ Main Dashboard**
 
 <img width="1318" height="742" alt="E-commerce Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/1c59dd7b-1d84-4e03-9636-269b249392e7" />
 
-
-**📁 Repository Structure
+**📁 Repository Structure**
 E-Commerce-Sales-Analytics-Dashboard
 │
 ├── Dataset
@@ -123,7 +132,7 @@ E-Commerce-Sales-Analytics-Dashboard
 ├── Screenshots
 │   └── Dashboard.png
 │
-└── README.md**
+└── README.md
 
 **📚 Skills Demonstrated**
 Business Intelligence
