@@ -1,125 +1,121 @@
-**📊 E-Commerce Sales Analytics Dashboard | Power BI
-🚀 Project Overview**
+# 📊 E-Commerce Sales Analytics Dashboard | Power BI
+
+## 🚀 Project Overview
 
 This project presents an interactive E-Commerce Sales Analytics Dashboard built in Power BI to analyze sales performance, profitability, customer purchasing behavior, product trends, and payment preferences.
 
-The dashboard enables stakeholders to monitor key business metrics, identify high-performing regions and products, and make data-driven decisions to improve overall business performance.
+The dashboard enables stakeholders to monitor key business metrics, identify high-performing regions and products, and make data-driven decisions.
 
-**🎯 Business Objective**
+---
 
-The primary objective of this project was to:
+## 🎯 Business Objective
 
-Analyze sales and profit performance across different regions.
-Identify top-performing customers and product categories.
-Understand customer payment preferences.
-Track monthly profitability trends.
-Provide actionable insights for business growth and profitability.
-**📂 Dataset Information**
-The project uses transactional e-commerce sales data containing:
-1.Order Details
-2.Customer Information
-3.Product Categories
-4.Sub-Categories
-5.State Information
-6.Payment Modes
-7.Sales Amount
-8.Quantity Sold
-9.Profit Metrics
-**🛠 Tools & Technologies**
-| Tool               | Purpose                        |
-| ------------------ | ------------------------------ |
-| Power BI           | Dashboard Development          |
-| Power Query        | Data Cleaning & Transformation |
-| DAX                | KPI & Measure Creation         |
-| Excel              | Data Source                    |
-| Data Modeling      | Relationship Building          |
-| Data Visualization | Business Insights              |
+The objective of this project is to:
 
-**📈 Key Performance Indicators (KPIs)**
-| KPI                 | Value |
-| ------------------- | ----- |
-| Total Sales         | 438K  |
-| Total Profit        | 37K   |
+- Analyze sales and profit performance across different regions.
+- Identify top-performing customers and product categories.
+- Understand customer payment preferences.
+- Track monthly profitability trends.
+- Generate actionable business insights.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Modeling
+- Data Visualization
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+| KPI | Value |
+|------|--------|
+| Total Sales | 438K |
+| Total Profit | 37K |
 | Total Quantity Sold | 5,615 |
-| Average Order Value | 121K  |
+| Average Order Value | 121K |
 
-**📊 Dashboard Features**
-**Executive KPI Summary**
-Total Sales
-Total Profit
-Total Quantity Sold
-Average Order Value
+---
 
-**Sales Analysis**
-State-wise Sales Distribution
-Customer-wise Revenue Analysis
-Quarterly Performance Tracking
+## 📊 Dashboard Features
 
-**Profit Analysis**
-Monthly Profit Trends
-Sub-Category Profitability Analysis
+### Executive KPI Summary
+- Total Sales
+- Total Profit
+- Total Quantity Sold
+- Average Order Value
 
-**Product Analysis**
-Category-wise Quantity Distribution
-Best Performing Product Categories
+### Sales Analysis
+- State-wise Sales Analysis
+- Customer-wise Revenue Analysis
+- Quarterly Performance Tracking
 
-**Customer Analysis**
-Top Revenue Generating Customers
-Purchase Behavior Insights
+### Profit Analysis
+- Monthly Profit Trends
+- Sub-Category Profitability Analysis
 
-**Payment Mode Analysis**
-COD Usage
-UPI Transactions
-Debit Card Transactions
-Credit Card Transactions
-EMI Transactions
+### Product Analysis
+- Category-wise Quantity Distribution
+- Best Performing Categories
 
-**Interactive Filters**
-Quarter Selection
-State Selection
+### Payment Analysis
+- COD Transactions
+- UPI Transactions
+- Credit Card Transactions
+- Debit Card Transactions
+- EMI Transactions
 
-**🔍 Key Business Insights**
-**Sales Performance**
-Maharashtra generated the highest sales revenue among all states.
-Madhya Pradesh and Uttar Pradesh contributed significantly to overall sales.
+### Interactive Filters
+- Quarter Filter
+- State Filter
 
-**Product Performance**
-Clothing category accounted for approximately 63% of total quantity sold.
-Electronics and Furniture followed as secondary contributors.
+---
 
-**Customer Analysis**
-A small group of customers contributed a significant share of revenue, highlighting opportunities for customer retention programs.
+## 🔍 Key Insights
 
-**Payment Behavior**
-Cash on Delivery (COD) was the most preferred payment method, accounting for 44% of transactions.
-UPI emerged as the second most utilized payment mode.
+### Sales Insights
+- Maharashtra generated the highest sales revenue.
+- Madhya Pradesh and Uttar Pradesh were among the top-performing states.
 
-**Profitability Analysis**
-Printers generated the highest profit among all sub-categories.
-Monthly profits showed noticeable fluctuations, indicating potential seasonality effects.
+### Product Insights
+- Clothing contributed approximately 63% of total quantity sold.
+- Electronics and Furniture were the next major contributors.
 
-**💡 Business Recommendations**
-**Improve Customer Retention**
-Develop loyalty and reward programs targeting high-value customers.
+### Payment Insights
+- Cash on Delivery (COD) accounted for 44% of total transactions.
+- UPI emerged as the second most preferred payment method.
 
-**Promote High-Profit Products**
-Increase marketing efforts for profitable sub-categories such as Printers and Bookcases.
+### Profitability Insights
+- Printers generated the highest profit among all sub-categories.
+- Monthly profit trends indicated seasonal fluctuations.
 
-**Expand in High-Revenue Regions**
-Focus marketing campaigns and inventory planning in Maharashtra and other top-performing states.
+---
 
-**Encourage Digital Payments**
-Offer incentives for UPI and card transactions to reduce COD-related operational costs.
+## 💡 Business Recommendations
 
-**Seasonal Planning**
-Leverage monthly profit trends for inventory optimization and promotional planning.
+- Strengthen customer retention programs for high-value customers.
+- Focus marketing efforts on high-profit product categories.
+- Expand operations in top-performing states.
+- Encourage digital payments to reduce COD dependency.
+- Use seasonal trends for inventory and promotional planning.
 
-**📷 Dashboard Preview
-Main Dashboard**
+---
 
-<img width="1318" height="742" alt="E-commerce Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/1c59dd7b-1d84-4e03-9636-269b249392e7" />
+## 📷 Dashboard Preview
 
-**📁 Repository Structure**
+<img width="1318" height="742" alt="E-commerce Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/76a2f6b1-dc36-4b2e-8109-48d97c7e81d1" />
+
+
+---
+
+## 📁 Repository Structure
+
+```text
 E-Commerce-Sales-Analytics-Dashboard
 │
 ├── Dataset
@@ -133,26 +129,39 @@ E-Commerce-Sales-Analytics-Dashboard
 │   └── Dashboard.png
 │
 └── README.md
+```
 
-**📚 Skills Demonstrated**
-Business Intelligence
-Data Cleaning
-Data Transformation
-Data Modeling
-DAX Calculations
-KPI Development
-Dashboard Design
-Data Visualization
-Business Analytics
-Insight Generation
-Decision Support Reporting
+---
 
-🔗 Author
-Anshika Tiwari
+## 📚 Skills Demonstrated
 
-MBA (Business Analytics) | Aspiring Data Analyst & Business Analyst
+- Business Intelligence
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- Dashboard Development
+- KPI Design
+- Data Visualization
+- Business Analytics
 
-Connect With Me
-LinkedIn: (www.linkedin.com/in/
-anshikatiwari2405
-)
+---
+
+## 👨‍💻 Author
+
+**Anshika Tiwari**
+
+MBA (Business Analytics)
+
+Aspiring Data Analyst | Business Analyst
+
+### Connect With Me
+
+- LinkedIn: (www.linkedin.com/in/
+anshikatiwari2405)
+
+
+
+---
+
+⭐ If you found this project helpful, please consider giving it a star.
